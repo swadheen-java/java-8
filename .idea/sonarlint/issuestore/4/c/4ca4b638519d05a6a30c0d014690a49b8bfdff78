@@ -1,0 +1,7 @@
+
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ĞÊ”¾üÿÿÿÿ
+V
+squid:S1062"9Replace this use of System.out or System.err by a logger.(åş±8ãáÌÿ´.
+V
+squid:S1065"9Replace this use of System.out or System.err by a logger.(³‹™£8ºÖÿ´.
+hsquid:UselessImportCheck"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8…êÔÿ´.

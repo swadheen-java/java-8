@@ -1,0 +1,10 @@
+
+Ssquid:UselessImportCheck"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ŒïÍ8Èßãé¹.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Úº¢Øøÿÿÿÿ8§Šãé¹.
+N
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ûòõ?
+Tsquid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+]squid:UselessImportCheck"9Remove this unused import 'java.util.function.Predicate'.(ïÍ–¶

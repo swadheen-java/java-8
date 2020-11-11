@@ -1,0 +1,22 @@
+
+Xsquid:S1854":Remove this useless assignment to local variable "string".(à´«õ8äÃÿ—³.
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¿ÝÄ£8äƒÄ˜³.
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ú£Î¸þÿÿÿÿ
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(”÷¸¿8‡ð®ä¥.
+Isquid:S1481"+Remove this unused "string" local variable.(à´«õ8äÃÿ—³.
+dsquid:UselessImportCheck"9Remove this unused import 'java.util.function.Predicate'.(ïÍ–¶8Ý×Èä¥.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ïÁ¿ùÿÿÿÿ8›ä½ä¥.
+Rsquid:S1611"/Remove the parentheses around the "x" parameter(¨ÕÖýÿÿÿÿ8ö¿³ä¥.
+Msquid:S1611"/Remove the parentheses around the "x" parameter(”÷¸¿8‡ð®ä¥.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(€ÉÝûÿÿÿÿ8Ïäß¥.
+Jsquid:S1612",Replace this lambda with a method reference.(”÷¸¿8²Ó¯ä¥.
+Qsquid:S1481".Remove this unused "consumer3" local variable.(¨ÕÖýÿÿÿÿ8Ê½€˜³.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÎÊ×Àúÿÿÿÿ8›ä½ä¥.
+Rsquid:S1611"/Remove the parentheses around the "x" parameter(€ÉÝûÿÿÿÿ8Ïäß¥.
+`squid:S1854"=Remove this useless assignment to local variable "consumer3".(¨ÕÖýÿÿÿÿ8Ê½€˜³.
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(£°ñãùÿÿÿÿ8Ê½€˜³.
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(âµÆüÿÿÿÿ8÷çý—³.

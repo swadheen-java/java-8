@@ -1,0 +1,10 @@
+
+Osquid:S1612",Replace this lambda with a method reference.(Ç¼€şÿÿÿÿ8İÔ™µ.
+Zsquid:S3655"7Call "Optional#isPresent()" before accessing the value.(‹‘ĞÀşÿÿÿÿ8ãœËµ.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ç¼€şÿÿÿÿ8İÔ™µ.
+[
+squid:S106%"9Replace this use of System.out or System.err by a logger.(İñ°äüÿÿÿÿ8Ğá×µ.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(«‹Îõ8ãœËµ.
+Zsquid:S3655%"7Call "Optional#isPresent()" before accessing the value.(İñ°äüÿÿÿÿ8˜öÙµ.

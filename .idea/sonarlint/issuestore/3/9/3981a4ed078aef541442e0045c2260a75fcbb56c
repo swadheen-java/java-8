@@ -1,0 +1,14 @@
+
+Nsquid:S1135*"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¦˜Ï
+[squid:UselessImportCheck"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ
+T
+squid:S106&"9Replace this use of System.out or System.err by a logger.(ø¿âÿÿÿÿÿ
+psquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Š²Ä…
+jsquid:UselessImportCheck"FRemove this unused import 'java.util.concurrent.CopyOnWriteArrayList'.(ı¦ü
+_squid:S2276("CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(€­íÜüÿÿÿÿ
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ª¦²Œ8÷•Ğ».
+]squid:S2142)"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+?squid:S1148+"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+O
+squid:S106 "9Replace this use of System.out or System.err by a logger.(‡÷¤€

@@ -1,0 +1,9 @@
+
+Osquid:S1602
+",Remove useless curly braces around statement(»ãáŸúÿÿÿÿ8Ï×€Â³.
+Ssquid:S1611
+"0Remove the parentheses around the "i1" parameter(»ãáŸúÿÿÿÿ8ğ şÁ³.
+tsquid:S4276
+"QRefactor this code to use the more specialised Functional Interface 'IntConsumer'(»ãáŸúÿÿÿÿ8ğ şÁ³.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ø¥ŸÑûÿÿÿÿ8ğ şÁ³.

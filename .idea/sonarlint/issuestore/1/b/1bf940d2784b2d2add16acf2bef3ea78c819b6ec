@@ -1,0 +1,14 @@
+
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(øŠõâ8Ãþãó¶.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(øŠõâ8ÞÉ«ó¶.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(÷§»·þÿÿÿÿ8¯˜¨ó¶.
+Ysquid:S1854"6Remove this useless assignment to local variable "al".(ËÑõ©þÿÿÿÿ8ÙùŠó¶.
+|squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ËÑõ©þÿÿÿÿ8ÙùŠó¶.
+[
+squid:S106%"9Replace this use of System.out or System.err by a logger.(˜€äíþÿÿÿÿ8ß¿±ó¶.
+Jsquid:S1481"'Remove this unused "al" local variable.(ËÑõ©þÿÿÿÿ8ÙùŠó¶.
+|squid:S2293""YReplace the type specification in this constructor call with the diamond operator ("<>").(·ÝÈ°üÿÿÿÿ8žè”ó¶.
+]squid:UselessImportCheck"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8Ó”¦ó¶.

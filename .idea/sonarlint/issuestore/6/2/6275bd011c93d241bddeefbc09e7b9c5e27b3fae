@@ -1,0 +1,17 @@
+
+Bsquid:S1612",Replace this lambda with a method reference.(©È§
+Csquid:S1612",Replace this lambda with a method reference.(–ÅÖ§
+Csquid:S1612",Replace this lambda with a method reference.(–ÅÖ§
+Csquid:S1612",Replace this lambda with a method reference.(–ÅÖ§
+\squid:UselessImportCheck"8Remove this unused import 'java.util.function.Function'.(»³Íž
+`squid:S1854"IRemove this useless assignment to local variable "supplierRandomInteger".(öÐþ‚
+N
+squid:S106"9Replace this use of System.out or System.err by a logger.(©È§
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(–ÅÖ§
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(–ÅÖ§
+hsquid:S4276"QRefactor this code to use the more specialised Functional Interface 'IntSupplier'(öÐþ‚
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(–ÅÖ§
+Qsquid:S1481":Remove this unused "supplierRandomInteger" local variable.(öÐþ‚

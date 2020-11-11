@@ -1,0 +1,6 @@
+
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(–¡²£8ÄÌÃÔ´.
+Jsquid:S1612",Replace this lambda with a method reference.(–¡²£8ÄÌÃÔ´.
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(şæ«†
+Ysquid:UnusedPrivateMethod"-Remove this unused private "mapping1" method.(´å™£8Í»ÍÔ´.

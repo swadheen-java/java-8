@@ -1,0 +1,8 @@
+
+[
+squid:S106:"9Replace this use of System.out or System.err by a logger.(óŠã’úÿÿÿÿ8ö»†¬Ä.
+[
+squid:S1062"9Replace this use of System.out or System.err by a logger.(àë¯ûÿÿÿÿ8ö»†¬Ä.
+]squid:UselessImportCheck"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8˜Ô«Ä.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(»ıéŠùÿÿÿÿ8ö»†¬Ä.

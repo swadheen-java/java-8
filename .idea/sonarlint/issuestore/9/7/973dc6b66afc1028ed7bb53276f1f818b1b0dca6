@@ -1,0 +1,15 @@
+
+hsquid:UselessImportCheck	"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8Š· Õ´.
+[
+squid:S1066"9Replace this use of System.out or System.err by a logger.(ˆ£ú üÿÿÿÿ8îÆú×´.
+V
+squid:S1064"9Replace this use of System.out or System.err by a logger.(óÙî·8™Ô¢Õ´.
+nsquid:CommentedOutCodeLine+"<This block of commented-out lines of code should be removed.(³ÿ¦Úøÿÿÿÿ8ï·åÕ´.
+gsquid:UnusedPrivateMethod#"6Remove this unused private "groupingByMethod2" method.(ž™©ûÿÿÿÿ8˜Öä×´.
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(þæ«†
+nsquid:CommentedOutCodeLine/"<This block of commented-out lines of code should be removed.(‹ã ýøÿÿÿÿ8ï·åÕ´.
+bsquid:UnusedPrivateMethod"6Remove this unused private "groupingByMethod1" method.(úÀÐø8ï·åÕ´.
+lsquid:UnusedPrivateMethod"@Remove this unused private "customizedGroupingByMethod2" method.(°žµ8ï·åÕ´.
+qsquid:UnusedPrivateMethod"@Remove this unused private "customizedGroupingByMethod1" method.(ª±›€ÿÿÿÿÿ8ï·åÕ´.
+isquid:CommentedOutCodeLine-"<This block of commented-out lines of code should be removed.(Ñ”öÜ8ï·åÕ´.
+nsquid:CommentedOutCodeLine1"<This block of commented-out lines of code should be removed.(²ƒ’‡úÿÿÿÿ8˜Öä×´.

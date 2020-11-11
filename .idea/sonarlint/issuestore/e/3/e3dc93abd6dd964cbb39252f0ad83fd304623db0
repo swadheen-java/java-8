@@ -1,0 +1,29 @@
+
+V
+squid:S106""9Replace this use of System.out or System.err by a logger.(Ü¨·Ê8ıÚ²ë¹.
+Ysquid:S1854*"6Remove this useless assignment to local variable "s9".(À—°ºùÿÿÿÿ8ıÕÃë¹.
+psquid:S00117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô›ÇÛ8ıÚ²ë¹.
+Jsquid:S1481*"'Remove this unused "s9" local variable.(À—°ºùÿÿÿÿ8×ÏÆë¹.
+]squid:S18540"?Remove this useless assignment to local variable "total_time2".(£ÒÕı8ıÕÃë¹.
+[
+squid:S106/"9Replace this use of System.out or System.err by a logger.(ªÊ©ıÿÿÿÿ8ıÕÃë¹.
+Csquid:S2129*" Remove this "String" constructor(À—°ºùÿÿÿÿ8÷ÊÄë¹.
+Nsquid:S14810"0Remove this unused "total_time2" local variable.(£ÒÕı8ıÕÃë¹.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(›Ûšß8”Ö¾ë¹.
+Tsquid:S1854"6Remove this useless assignment to local variable "s7".(öİ¯8ıÚ²ë¹.
+Esquid:S1481"'Remove this unused "s7" local variable.(öİ¯8 ³ë¹.
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(” şùÿÿÿÿ8 °¼ë¹.
+Usquid:S1854+"7Remove this useless assignment to local variable "s10".(ŠÈÑŸ8ıÕÃë¹.
+[
+squid:S106 "9Replace this use of System.out or System.err by a logger.(ÿÁçÜüÿÿÿÿ8¨¿ë¹.
+Tsquid:S1854"6Remove this useless assignment to local variable "s8".(ÁİşÙ8ıÚ²ë¹.
+>squid:S2129+" Remove this "String" constructor(ŠÈÑŸ8ğ–Åë¹.
+Fsquid:S1481+"(Remove this unused "s10" local variable.(ŠÈÑŸ8ªïÆë¹.
+V
+squid:S1061"9Replace this use of System.out or System.err by a logger.(Ü¨·Ê8ıÕÃë¹.
+[
+squid:S106&"9Replace this use of System.out or System.err by a logger.(™œî‡üÿÿÿÿ8ıÕÃë¹.
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Îœ±¼ıÿÿÿÿ8 °¼ë¹.
+psquid:S001170"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£ÒÕı8ıÕÃë¹.
+Esquid:S1481"'Remove this unused "s8" local variable.(ÁİşÙ8²á¸ë¹.

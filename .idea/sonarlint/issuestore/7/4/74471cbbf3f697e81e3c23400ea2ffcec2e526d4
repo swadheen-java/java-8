@@ -1,0 +1,9 @@
+
+>squid:S3864"!Remove this use of "Stream.peek".(¥¨ËS8ú‹¥‡´.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(«Şõ±8ú‹¥‡´.
+Isquid:S1602",Remove useless curly braces around statement(¥¨ËS8ú‹¥‡´.
+O
+squid:S106#"9Replace this use of System.out or System.err by a logger.(¾Ñ…
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÅİÙøÿÿÿÿ
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÅİÙøÿÿÿÿ8ºç¦‡´.

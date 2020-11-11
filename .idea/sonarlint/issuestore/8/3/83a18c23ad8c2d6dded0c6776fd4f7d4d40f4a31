@@ -1,0 +1,15 @@
+
+msquid:S1858"J"string1" is already a string, there's no need to call "toString()" on it.(½šÚÏûÿÿÿÿ8õğ§Âµ.
+Zsquid:S1854"7Remove this useless assignment to local variable "al1".(•’Ÿâûÿÿÿÿ8ÒàÏµ.
+|squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ªõø‘úÿÿÿÿ8Œ°×Îµ.
+Ksquid:S1481"(Remove this unused "al2" local variable.(Òô›çûÿÿÿÿ8Œ°×Îµ.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(½šÚÏûÿÿÿÿ8¹­¦Âµ.
+Ksquid:S1481"(Remove this unused "al3" local variable.(ªõø‘úÿÿÿÿ8Œ°×Îµ.
+Zsquid:S1854"7Remove this useless assignment to local variable "al3".(ªõø‘úÿÿÿÿ8Œ°×Îµ.
+Ksquid:S1481"(Remove this unused "al1" local variable.(•’Ÿâûÿÿÿÿ8ÒàÏµ.
+Zsquid:S1854"7Remove this useless assignment to local variable "al2".(Òô›çûÿÿÿÿ8Œ°×Îµ.
+|squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(•’Ÿâûÿÿÿÿ8Œ°×Îµ.
+|squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Òô›çûÿÿÿÿ8Œ°×Îµ.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(˜¬ÿ„8¸Ö¢Âµ.

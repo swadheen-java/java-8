@@ -1,0 +1,21 @@
+
+]squid:UnusedPrivateMethod'",Remove this unused private "method3" method.(Ï¬ÑŠûÿÿÿÿ8æõ¼áµ.
+]squid:UnusedPrivateMethod",Remove this unused private "method2" method.(·³Êûÿÿÿÿ8“ø€Óµ.
+wsquid:S2293 "YReplace the type specification in this constructor call with the diamond operator ("<>").(ã¿¹’8¯˜ÊÓµ.
+Usquid:S1854 "7Remove this useless assignment to local variable "al5".(ã¿¹’8¯˜ÊÓµ.
+Tsquid:S1854"6Remove this useless assignment to local variable "al".(ÈŠôè8Ã‰ÁÓµ.
+wsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¡¾ÈÂ8¯˜ÊÓµ.
+?squid:S2129"!Remove this "Integer" constructor(·±ñ8¿‹„Óµ.
+Usquid:S1854"7Remove this useless assignment to local variable "al2".(”¹¿«8¯˜ÊÓµ.
+wsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ë¢ù”8¯˜ÊÓµ.
+Usquid:S1854"7Remove this useless assignment to local variable "al1".(¡¾ÈÂ8¯˜ÊÓµ.
+wsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÈŠôè8Ã‰ÁÓµ.
+Fsquid:S1481"(Remove this unused "al4" local variable.(Ë¢ù”8¯˜ÊÓµ.
+Usquid:S1854"7Remove this useless assignment to local variable "al4".(Ë¢ù”8¯˜ÊÓµ.
+Esquid:S1481"'Remove this unused "al" local variable.(ÈŠôè8Ã‰ÁÓµ.
+Jsquid:S2326'"'ClassSample2 is not used in the method.(Ï¬ÑŠûÿÿÿÿ8ÁÊáµ.
+Xsquid:UnusedPrivateMethod",Remove this unused private "method1" method.(´¯Ş¢8­Ï×æ¶.
+Fsquid:S1481"(Remove this unused "al1" local variable.(¡¾ÈÂ8¯˜ÊÓµ.
+msquid:S00119'"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(Ï¬ÑŠûÿÿÿÿ8Â×Ááµ.
+Fsquid:S1481"(Remove this unused "al2" local variable.(”¹¿«8¯˜ÊÓµ.
+Fsquid:S1481 "(Remove this unused "al5" local variable.(ã¿¹’8¯˜ÊÓµ.

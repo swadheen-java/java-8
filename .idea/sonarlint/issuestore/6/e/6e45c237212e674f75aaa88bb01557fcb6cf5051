@@ -1,0 +1,10 @@
+
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(˜Ç‘Ì8Ï÷®Ñµ.
+Isquid:S1481""&Remove this unused "n" local variable.(æ›üüÿÿÿÿ8ëô´ò¶.
+Xsquid:S1854""5Remove this useless assignment to local variable "n".(æ›üüÿÿÿÿ8ëô´ò¶.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ŸÝ¦ûÿÿÿÿÿ8Õ•—Ñµ.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(§¶ÛÀ8º£’Ñµ.
+[
+squid:S106$"9Replace this use of System.out or System.err by a logger.(à¿öÑúÿÿÿÿ8Ñ¯¯ò¶.

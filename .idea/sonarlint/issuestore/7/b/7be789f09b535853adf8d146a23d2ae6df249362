@@ -1,0 +1,13 @@
+
+isquid:CommentedOutCodeLine!"<This block of commented-out lines of code should be removed.(øßÙ’8ŽîŠµ.
+zsquid:S1488"\Immediately return this expression instead of assigning it to the temporary variable "name".(Œ½Î¾8ÙÒíŽµ.
+V
+squid:S1060"9Replace this use of System.out or System.err by a logger.(þó—Í8“ù‰µ.
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(øßÙ’8ªêýŽµ.
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ß£æð8›˜øŽµ.
+squid:S1488%"\Immediately return this expression instead of assigning it to the temporary variable "name".(ê¦¢‡ûÿÿÿÿ8˜äµ.
+[
+squid:S106,"9Replace this use of System.out or System.err by a logger.(…Œ¦åøÿÿÿÿ8Æ©€µ.
+[
+squid:S106."9Replace this use of System.out or System.err by a logger.(€ü­µüÿÿÿÿ8èÒ÷Žµ.
+ysquid:S1488"\Immediately return this expression instead of assigning it to the temporary variable "name".(“Ûåp8¥ïòŽµ.

@@ -1,0 +1,8 @@
+
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ºøÞÕ8´£ïô¿.
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(§•–úÿÿÿÿ8ã†„õ¿.
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ˆæˆ»8áž€õ¿.
+Fsquid:S1481"(Remove this unused "arr" local variable.(°²áò8¡à„õ¿.
+Usquid:S1854"7Remove this useless assignment to local variable "arr".(°²áò8¡à„õ¿.
+Jsquid:S1612",Replace this lambda with a method reference.(ºøÞÕ8´£ïô¿.

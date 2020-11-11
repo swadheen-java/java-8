@@ -1,0 +1,9 @@
+
+^squid:S1854	"@Remove this useless assignment to local variable "anotherValue".(¸™İÚ8€ûÂ³.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(‹ú×²8ëòˆÂ³.
+tsquid:S4276
+"QRefactor this code to use the more specialised Functional Interface 'IntConsumer'(ãÎ¾çÿÿÿÿÿ8­×‡Â³.
+Osquid:S1481	"1Remove this unused "anotherValue" local variable.(¸™İÚ8ãÂ³.
+Rsquid:S1611
+"/Remove the parentheses around the "i" parameter(ãÎ¾çÿÿÿÿÿ8­×‡Â³.
